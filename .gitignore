@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Unit test / coverage reports
+.tox
+.cache
+.coverage
+
+# Distribution / packaging
+*.egg-info/
+.eggs/
+
+# IDEs and editors
+/.idea
+/.vscode
+.project
+.classpath
+*.launch
+.settings/
+
+#System Files
+.DS_Store
+Thumbs.db
+
+# Conda env
+.python-compare-ast-env/
